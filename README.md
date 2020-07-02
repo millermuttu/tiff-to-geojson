@@ -10,8 +10,8 @@ This is the repo to convert the Tiff image files into geojson files with respect
 
 ### Packages required
 
-* geopandas
-* raterio
+* [geopandas](https://geopandas.org/)
+* [raterio](https://rasterio.readthedocs.io/en/latest/)
 
 ## sample output
 
