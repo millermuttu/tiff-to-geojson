@@ -19,10 +19,4 @@ This is the repo to convert the Tiff image files into geojson files with respect
 
 ## Authors
 
-* **Mallikarjun Sajjan** - *Initial work* - [mullermuttu](https://github.com/millermuttu)
-
-
-## Acknowledgments
-
-* thanks to [Sentinelsat](https://sentinelsat.readthedocs.io/en/stable/) API
-
+* **Mallikarjun Sajjan**  - [mullermuttu](https://github.com/millermuttu)
